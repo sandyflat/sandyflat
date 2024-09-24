@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandip Chapain</h1>
 <h3 align="center">A passionate programmer currently working and learning backend development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandyflat" alt="sandyflat" /></a> </p>
 
 - 📫 How to reach me **chapsandip17@gmail.com**
 
