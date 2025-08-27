@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandip Chapain</h1>
 <h3 align="center">A passionate programmer currently working and learning backend development</h3>
 
-- 🌱 I’m currently working on **SpringBoot**
+- 🌱 I’m currently working on **SpringBoot** and **MicroServices**
 
 - 📫 How to reach me **chapsandip17@gmail.com**
 
